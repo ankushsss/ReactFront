@@ -58,7 +58,7 @@ function App() {
                   <div className='mblBar-1100' onClick={() =>x.matches?document.getElementById('navShow').setAttribute('style','display:block;'):console.log('screen')}><i class="fas fa-ellipsis-v"></i><i class="fas fa-ellipsis-v"></i><i class="fas fa-ellipsis-v"></i></div>
                  
                 </div>
-                 <div class='hii'><h2>Hii Mickey <sup class='supc'>23</sup></h2></div>
+                 <div class='hii'><h2>Hii Ankush <sup class='supc'>23</sup></h2></div>
                      <div className='boxes'>
                         <Centerbox />
                         <Centerbox/>
